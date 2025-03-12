@@ -241,4 +241,3 @@
 // let area = calcArea(radius);
 // let circumference = calcCircumference(radius);
 // document.write("The circumference of a circle is: " + circumference + "<br />" + "The area of a circle is: " + area)
-//-------------------------- X ------------------------------- X -------------------------------- X -------------------------
